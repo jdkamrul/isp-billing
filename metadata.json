@@ -1,0 +1,5 @@
+{
+  "name": "ISP Billing Admin Dashboard",
+  "description": "A comprehensive admin dashboard for managing an Internet Service Provider (ISP). It includes customer management, billing, package control, and AI-powered reporting features using the Gemini API to generate business insights.",
+  "requestFramePermissions": []
+}
